@@ -1,0 +1,20 @@
+#body .hist {
+    background-image: linear-gradient(60deg, #29323c 0%, #485563 100%); 
+    height: 100%;
+    width: 100%;
+}
+#body .hist h1{
+   text-align: center; 
+   color: #fff;
+   font-size: 60px;
+   font-family: 'Lobster', sans-serif;
+   
+}
+#body .hist p{
+    text-align: left;
+    font-size: 20px;
+    color: gainsboro;
+    margin-top: 3%;
+    font-family: 'Lobster', sans-serif;
+
+}
